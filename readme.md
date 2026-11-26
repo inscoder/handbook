@@ -19,3 +19,4 @@ We wrote it to help you get settled from Day 1, so you aren't left guessing. Rea
 * [A Note About Moonlighting](moonlighting.md)
 * [Confidentiality](confidentiality.md)
 * [Anti-Corruption](anti-corruption.md)
+* [Credits](credits.md)
